@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-song-book/static/css/main.d1b05096.chunk.css",
+    "main.js": "/my-song-book/static/js/main.eb391b30.chunk.js",
+    "main.js.map": "/my-song-book/static/js/main.eb391b30.chunk.js.map",
+    "runtime-main.js": "/my-song-book/static/js/runtime-main.2fa40b9b.js",
+    "runtime-main.js.map": "/my-song-book/static/js/runtime-main.2fa40b9b.js.map",
+    "static/js/2.05a2cbe7.chunk.js": "/my-song-book/static/js/2.05a2cbe7.chunk.js",
+    "static/js/2.05a2cbe7.chunk.js.map": "/my-song-book/static/js/2.05a2cbe7.chunk.js.map",
+    "index.html": "/my-song-book/index.html",
+    "precache-manifest.4f0f05ad412a13802f59fdd590a67769.js": "/my-song-book/precache-manifest.4f0f05ad412a13802f59fdd590a67769.js",
+    "service-worker.js": "/my-song-book/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/my-song-book/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.05a2cbe7.chunk.js.LICENSE.txt": "/my-song-book/static/js/2.05a2cbe7.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/my-song-book/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fa40b9b.js",
+    "static/js/2.05a2cbe7.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.eb391b30.chunk.js"
+  ]
+}
